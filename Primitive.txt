@@ -1,5 +1,5 @@
 string
-Integer
 Boolean
 Decimal
 Date
+non primitive datatypes are sobject,collections
