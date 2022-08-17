@@ -1,3 +1,4 @@
 sobject
 it means we can add both custom object and standard object
 collections
+added list,set and map collections
